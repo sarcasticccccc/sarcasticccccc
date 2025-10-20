@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarcasticccccc
 - 👀 I’m interested in ... multiprogramming language 
-- 🌱 I’m currently learning ... java programming
+- 🌱 I’m currently learning ... Web development
 - 📫 How to reach me... instagram: Abhishek_Singh_Kurmavanshi
 
 <!---
